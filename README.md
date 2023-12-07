@@ -24,11 +24,11 @@ In this article, we adopted the approach by (Zhao et al., 2021). We first comput
 2. Jensen-Shannon divergence (JSD)
    The Jensen–Shannon divergence (JSD) is a symmetrized and smoothed version of the Kullback–Leibler divergence. It is defined by (Nielsen, 2019)
  
-  JSD(P, Q) = (1/2) * (D_KL(P || M) + D_KL(Q || M))
+ > JSD(P, Q) = (1/2) * (D_KL(P || M) + D_KL(Q || M))
 
- - D_KL(Q || M)) represents the Kullback-Leibler divergence from distribution P to distribution Q.
- - P and Q are the two probability distributions being compared.
- - M is the average distribution, defined as (P+Q)/2
+ > - D_KL(Q || M)) represents the Kullback-Leibler divergence from distribution P to distribution Q.
+ > - P and Q are the two probability distributions being compared.
+ > - M is the average distribution, defined as (P+Q)/2
 
 4. Wasserstein distance (WD)
 
