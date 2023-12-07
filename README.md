@@ -22,7 +22,15 @@ The file will provide mathematical definitions for resemblance, utility, and pri
 In this article, we adopted the approach by (Zhao et al., 2021). We first computed the pairwise correlation matrices of the columns in the real and synthetic datasets. Pearson correlation coefficient and the Theil uncertainty coefficient were used to measure the correlation between continuous features and between categorical features, respectively (Zhao et al., 2021). Finally, the difference between the pairwise correlation matrices of the real and synthetic datasets was calculated (Zhao et al., 2021). The dython library(https://pypi.org/project/dython/) is used to computed pairwise correlation.
 
 2. Jensen-Shannon divergence (JSD)
-3. Wasserstein distance (WD)
+   The Jensen–Shannon divergence (JSD) is a symmetrized and smoothed version of the Kullback–Leibler divergence. It is defined by (Nielsen, 2019)
+ 
+  JSD(P, Q) = (1/2) * (D_KL(P || M) + D_KL(Q || M))
+
+ - D_KL(Q || M)) represents the Kullback-Leibler divergence from distribution P to distribution Q.
+ - P and Q are the two probability distributions being compared.
+ - M is the average distribution, defined as (P+Q)/2
+
+4. Wasserstein distance (WD)
 
 
 # Utility
