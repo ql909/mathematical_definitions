@@ -32,6 +32,9 @@ In this article, we adopted the approach by (Zhao et al., 2021). We first comput
 
 4. Wasserstein distance (WD)
 
+![image](https://github.com/ql909/mathematical_definitions/assets/108169831/7b64ead0-18cc-4d5c-9f23-416344aeba9a)
+
+
 
 # Utility
 1. machine learning utility evaluation
