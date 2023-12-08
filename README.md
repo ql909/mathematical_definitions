@@ -41,10 +41,10 @@ In this article, we adopted the approach by (Zhao et al., 2021). We first comput
 
 
 # Privacy
-1. Distance to Closest Record (DCR)
+1. Distance to Closest Record (DCR). Distance to Closest Record for a given individual s in S as the minimum distance between s and every original individual o in O (Minieri, 2022):
    
-    >  Distance to Closest Record for a given individual s in S as the minimum distance between s and every original individual o in O (Minieri, 2022):
     > 𝐷𝐶𝑅(s) = 𝑚𝑖𝑛 𝑑(s,o) for each o∈O
+    
    DCR(s) = 0 means that s is an identical copy (clone) of at least one real individual in the original dataset O.
     
 3. Nearest Neighbour Distance Ratio (NNDR)
