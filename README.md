@@ -47,7 +47,7 @@ In this article, we adopted the approach by (Zhao et al., 2021). We first comput
     
    DCR(s) = 0 means that s is an identical copy (clone) of at least one real individual in the original dataset O.
     
-3. Nearest Neighbour Distance Ratio (NNDR).The nearest neighbor distance ratio, or ratio test, finds the nearest neighbor to the feature descriptor and the second nearest neighbor to the feature descriptor and divides the two (Lieberman, 2023). The formula can be compute as
+3. Nearest Neighbour Distance Ratio (NNDR). The nearest neighbor distance ratio, or ratio test, finds the nearest neighbor to the feature descriptor and the second nearest neighbor to the feature descriptor and divides the two (Lieberman, 2023). The formula can be computed as
    
     > NNDR=d1/d2
     
@@ -68,3 +68,4 @@ In this article, we adopted the approach by (Zhao et al., 2021). We first comput
 5. Membership interface attack (MIA)
 
 ## Reference
+
