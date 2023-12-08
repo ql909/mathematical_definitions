@@ -5,7 +5,8 @@ The file will provide mathematical definitions for resemblance, utility, and pri
 
 # Resemblance
 
-### (1)	Difference in pairwise correlation. Pairwise correlation is a measure of correlation between two expressions and is used to measure the difference between the results of two expressions(Dandekar et al., 2017). It is commonly calculated by computing the covariance between variables and then normalizing by the product of their standard deviations. The mathematical definition for Difference in pairwise correlation is as follows (Hair et al., 2016):
+### (1)	Difference in pairwise correlation. 
+Pairwise correlation is a measure of correlation between two expressions and is used to measure the difference between the results of two expressions(Dandekar et al., 2017). It is commonly calculated by computing the covariance between variables and then normalizing by the product of their standard deviations. The mathematical definition for Difference in pairwise correlation is as follows (Hair et al., 2016):
 
  >Let X_1, X_2, ..., X_n be a set of variables, and Y_1, Y_2, ..., Y_n be another set of variables. The Difference in pairwise correlation (Δρ) is calculated as:
 
