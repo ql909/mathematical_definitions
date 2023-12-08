@@ -47,12 +47,24 @@ In this article, we adopted the approach by (Zhao et al., 2021). We first comput
     
    DCR(s) = 0 means that s is an identical copy (clone) of at least one real individual in the original dataset O.
     
-3. Nearest Neighbour Distance Ratio (NNDR).The nearest neighbor distance ratio (NNDR), or ratio test, finds the nearest neighbor to the feature descriptor and second nearest neighbor to the feature descriptor and divides the two (Lieberman, 2023). The formula can be compute as
+3. Nearest Neighbour Distance Ratio (NNDR).The nearest neighbor distance ratio, or ratio test, finds the nearest neighbor to the feature descriptor and the second nearest neighbor to the feature descriptor and divides the two (Lieberman, 2023). The formula can be compute as
    
     > NNDR=d1/d2
     
     where d1 is the nearest neighbor distance and d2 is the second nearest neighbor distance.
-    
+
+   According to (Cover & Hart, 1967), the Nearest Neighbor Distance (NND) is a metric that represents the distance from a data point to its nearest neighbor in a dataset. The mathematical definition of Nearest Neighbor Distance for a point x is:
+
+   > NND(x) = min_{y ≠ x} Distance(x, y)
+
+   Here:
+
+   - NND(x) represents the Nearest Neighbor Distance for the data point x
+   - min_{y ≠ x} denotes finding the minimum distance over all points y in the dataset except x
+   - Distance(x, y)  is the distance metric (e.g., Euclidean distance) between points x and y
+
+    In our paper, we used Euclidean distance in NNDR.
+   
 5. Membership interface attack (MIA)
 
 ## Reference
