@@ -1,4 +1,4 @@
-# mathematical_definitions
+# Mathematical_definitions
 This is the supplementary file for the paper "Scaling While Privacy Preserving: A Comprehensive Synthetic Tabular Data Generation and Evaluation in Learning Analytics".
 
 The file will provide mathematical definitions for resemblance, utility, and privacy metrics that are used in this paper.
@@ -38,7 +38,7 @@ In this article, we adopted the approach by (Zhao et al., 2021). We first comput
 
 
 # Utility
-machine learning utility evaluation
+Machine learning utility evaluation
 
 ### (1)	Random forest classifier
 
