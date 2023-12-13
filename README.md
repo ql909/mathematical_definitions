@@ -108,11 +108,15 @@ Membership inference attack (MIA) when an attacker tries to identify if real rec
 
 <img width="850" alt="Screenshot 2023-12-13 at 15 45 04" src="https://github.com/ql909/mathematical_definitions/assets/108169831/148e7cfa-2854-4caa-85bf-d281d3374b9e">
 
-                                                                    figure 1: MIA model (Hernadez et al., 2023)
+                                          figure 1: MIA model (Hernadez et al., 2023)
 
-<img width="401" style="margin: auto; display: block;" alt="Screenshot 2023-12-13 at 15 46 58" src="https://github.com/ql909/mathematical_definitions/assets/108169831/9c313990-c32e-4186-95a3-6a87c2c64883">
+<p align="center">
+  <img width="401" alt="Screenshot 2023-12-13 at 15 46 58" src="https://github.com/ql909/mathematical_definitions/assets/108169831/98ccecb3-8009-4519-8947-35649e4f22e4">
 
-                                                                    figure 2: MIA Algorithm  (Hernadez et al., 2023)
+</p>
+
+
+                                              figure 2: MIA Algorithm  (Hernadez et al., 2023)
 ## Reference
 - Abirami, S., & Chitra, P. (2020). Multilayer Perceptron - an Overview | ScienceDirect Topics. Www.sciencedirect.com. www.sciencedirect.com/topics/computer-science/multilayer-perceptron
 - Brownlee, J. (2016). Logistic Regression for Machine Learning. Machine Learning Mastery. https://machinelearningmastery.com/logistic-regression-for-machine-learning/
