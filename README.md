@@ -109,8 +109,22 @@ Membership inference attack (MIA) when an attacker tries to identify if real rec
 <img width="850" alt="Screenshot 2023-12-13 at 15 45 04" src="https://github.com/ql909/mathematical_definitions/assets/108169831/148e7cfa-2854-4caa-85bf-d281d3374b9e">
 
                                                                     figure 1: MIA model (Hernadez et al., 2023)
-                                                                    <img width="217" alt="Screenshot 2023-12-13 at 09 59 57" src="https://github.com/ql909/mathematical_definitions/assets/108169831/524c1f28-b778-4abb-8c37-382a753fdd3d">
+
+<img width="401" style="margin: auto; display: block;" alt="Screenshot 2023-12-13 at 15 46 58" src="https://github.com/ql909/mathematical_definitions/assets/108169831/9c313990-c32e-4186-95a3-6a87c2c64883">
 
                                                                     figure 2: MIA Algorithm  (Hernadez et al., 2023)
 ## Reference
+- Abirami, S., & Chitra, P. (2020). Multilayer Perceptron - an Overview | ScienceDirect Topics. Www.sciencedirect.com. www.sciencedirect.com/topics/computer-science/multilayer-perceptron
+- Brownlee, J. (2016). Logistic Regression for Machine Learning. Machine Learning Mastery. https://machinelearningmastery.com/logistic-regression-for-machine-learning/
+- Cover, T., & Hart, P. (1967). Nearest neighbor pattern classification. IEEE Transactions on Information Theory, 13(1), 21–27. https://doi.org/10.1109/tit.1967.1053964
+- Dandekar, A., Zen, R. A. M., & Bressan, S. (2017). Comparative Evaluation of Synthetic Data Generation Methods. Semantic Scholar. https://www.semanticscholar.org/paper/Comparative-Evaluation-of-Synthetic-Data-Generation-Dandekar-Zen/03f0de0a14ae76548bb8614e2aa5e6abfd143a84
+- Hair, J., Anderson, R., Black, B., & Babin, B. (2016). Multivariate Data Analysis. Pearson Higher Ed.
+- Hernadez, M., Epelde, G., Alberdi, A., Cilla, R., & Rankin, D. (2023). Synthetic Tabular Data Evaluation in the Health Domain Covering Resemblance, Utility, and Privacy Dimensions. Methods of Information in Medicine, 62(Suppl 1), e19–e38. https://doi.org/10.1055/s-0042-1760247
+- Horan , C. (2021). Wasserstein Distance and Textual Similarity. Neptune.ai. https://neptune.ai/blog/wasserstein-distance-and-textual-similarity
+- Lieberman, A. (2023). Computer Vision Project. Sites.cc.gatech.edu. https://sites.cc.gatech.edu/classes/AY2016/cs4476_fall/results/proj2/html/alieberman3/index.html
+- Maalouf, M. (2011). Logistic regression in data analysis: an overview. International Journal of Data Analysis Techniques and Strategies, 3(3), 281. https://doi.org/10.1504/ijdats.2011.041335
+- Minieri, A. (2022). Synthetic Data for Privacy Preservation - Part 2. Clearbox.ai. https://www.clearbox.ai/blog/2022-06-07-synthetic-data-for-privacy-preservation-part-2
+- Nielsen, F. (2019). On the Jensen–Shannon Symmetrization of Distances Relying on Abstract Means. Entropy, 21(5), 485. https://doi.org/10.3390/e21050485
+- Schonlau, M., & Zou, R. Y. (2020). The random forest algorithm for statistical learning. The Stata Journal: Promoting Communications on Statistics and Stata, 20(1), 3–29. https://doi.org/10.1177/1536867x20909688
+- Zhao, Z., Kunar, A., Birke, R., & Chen, L. Y. (2021). CTAB-GAN: Effective Table Data Synthesizing. Proceedings of Machine Learning Research.
 
