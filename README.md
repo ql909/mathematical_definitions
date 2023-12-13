@@ -104,5 +104,13 @@ The nearest neighbor distance ratio, or ratio test, finds the nearest neighbor t
    
 ### (3)  Membership interface attack (MIA)
 
+Membership inference attack (MIA) when an attacker tries to identify if real records have been used to train the synthetic data generator approach. For this paper, we used the MIA model in (Hernadez et al., 2023)' paper. See details in figure 1 and figure 2 below.
+
+<img width="850" alt="Screenshot 2023-12-13 at 15 45 04" src="https://github.com/ql909/mathematical_definitions/assets/108169831/148e7cfa-2854-4caa-85bf-d281d3374b9e">
+
+                                                                    figure 1: MIA model (Hernadez et al., 2023)
+                                                                    <img width="217" alt="Screenshot 2023-12-13 at 09 59 57" src="https://github.com/ql909/mathematical_definitions/assets/108169831/524c1f28-b778-4abb-8c37-382a753fdd3d">
+
+                                                                    figure 2: MIA Algorithm  (Hernadez et al., 2023)
 ## Reference
 
