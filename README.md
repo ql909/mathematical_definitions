@@ -1,5 +1,5 @@
 # Mathematical_definitions
-This is the supplementary file for the paper "Scaling While Privacy Preserving: A Comprehensive Synthetic Tabular Data Generation and Evaluation in Learning Analytics".
+This is the supplementary file for the paper "Scaling While Privacy Preserving: A Comprehensive Synthetic Tabular Data Generation and Evaluation in Learning Analytics" (http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/LAK24/78/7d696e95-969e-11ee-8ef9-16bb50361d1f/OUT/lak24-78.html).
 
 The file will provide mathematical definitions for resemblance, utility, and privacy metrics that are used in this paper.
 
